@@ -1,0 +1,14 @@
+MVT
+----
+
+- admin
+
+- model    Post Model 
+- view      Post Model + .html 
+- template .html
+- urls.py 
+
+
+DRY method 
+----------
+dont repeat yourself 
